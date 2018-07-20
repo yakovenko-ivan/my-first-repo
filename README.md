@@ -1,26 +1,21 @@
-# THis is a large heading
-## This is a smaller heading
+# Ivan Y
+### Geography
 
-ANd as **imaginaition** bodies horth, 
-THe forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Russia
 
-- THis is
-- an unordered
-- list
+### Reading
 
-1. this is 
-2. an orderd
-3. list 
+THree of my favorite books are:
+- *Fight club* by Chuck Palahniuk
+- *Dictionary of the Khazars* by Milorad Pavich
+- *Generation X* by Douglas Coupland
 
-here is `some code` in the middle.
+### Food
 
-```
-this is 
-a block 
-of code
-```
+1. Buger
+2. Coffee
+3. Orange juice
 
-Here is how you make [a link](https://ya.ru).
+### Contact
+Some [ link](https://ya.ru).
 
